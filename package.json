@@ -1,0 +1,36 @@
+{
+  "name": "@ttgint/eslint-config",
+  "version": "0.3.0",
+  "description": "ESLint config for TTGINT projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttgint/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Cemre Mengu <cemre.mengu@ttgint.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttgint/eslint-config/issues"
+  },
+  "homepage": "https://github.com/ttgint/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "^5.12.0",
+    "prettier": "^1.15.3"
+  },
+  "dependencies": {
+    "babel-eslint":"10.0.1",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-config-prettier": "3.3.0",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-jsx-a11y": "6.1.2",
+    "eslint-plugin-prettier": "3.0.1",
+    "eslint-plugin-react": "^7.12.3"
+  }
+}
