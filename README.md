@@ -13,7 +13,7 @@ Add the config to either the `package.json`:
 ```json
 {
   "eslintConfig": {
-    "extends": "@ttgint/eslint-config" // you can also use only @ttgint
+    "extends": "@ttgint"
   }
 }
 ```
@@ -22,7 +22,7 @@ or to the `.eslintrc`
 
 ```json
 {
-  "extends": "@ttgint/eslint-config"
+  "extends": "@ttgint"
 }
 ```
 
