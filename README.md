@@ -1,5 +1,7 @@
 # ttgint/eslint-config
 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.org/ttgint/eslint-config.svg?branch=master)](https://travis-ci.org/ttgint/eslint-config)  [![Greenkeeper badge](https://badges.greenkeeper.io/ttgint/eslint-config.svg)](https://greenkeeper.io/)
+
 ESLint config for Node.js projects
 
 ## Installation
