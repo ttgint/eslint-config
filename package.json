@@ -1,6 +1,6 @@
 {
   "name": "@ttgint/eslint-config",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "ESLint config for Node.js projects",
   "main": "index.js",
   "scripts": {
