@@ -4,6 +4,7 @@ module.exports = {
     'func-names': 'off',
     'no-restricted-syntax': 'off',
     'global-require': 'off',
-    'no-await-in-loop': 'warn'
+    'no-await-in-loop': 'warn',
+    'no-plusplus': ['error', { 'allowForLoopAfterthoughts': true }]
   }
 }
