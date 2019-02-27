@@ -1,6 +1,8 @@
 # ttgint/eslint-config
 
-![npm](https://img.shields.io/npm/v/@ttgint/eslint-config.svg) [![Build Status](https://travis-ci.org/ttgint/eslint-config.svg?branch=master)](https://travis-ci.org/ttgint/eslint-config)  [![Greenkeeper badge](https://badges.greenkeeper.io/ttgint/eslint-config.svg)](https://greenkeeper.io/)
+[![npm](https://img.shields.io/npm/v/@ttgint/eslint-config.svg)](https://www.npmjs.com/package/@ttgint/eslint-config)
+[![Build Status](https://travis-ci.org/ttgint/eslint-config.svg?branch=master)](https://travis-ci.org/ttgint/eslint-config)
+[![Greenkeeper badge](https://badges.greenkeeper.io/ttgint/eslint-config.svg)](https://greenkeeper.io/)
 
 ESLint config for Node.js projects
 
