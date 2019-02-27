@@ -4,6 +4,9 @@ module.exports = {
     'node': true,
     'es6': true
   },
+  parserOptions: {
+    'sourceType': 'script'
+  },
   rules: {
     'strict': ['error', 'global'],
     'func-names': 'off',
