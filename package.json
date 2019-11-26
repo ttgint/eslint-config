@@ -17,19 +17,19 @@
   },
   "homepage": "https://github.com/ttgint/eslint-config#readme",
   "peerDependencies": {
-    "eslint": ">=5.12.0",
-    "prettier": "^1.15.3"
+    "eslint": "^6.7.1",
+    "prettier": "^1.19.1"
   },
   "dependencies": {
-    "eslint-config-airbnb-base": "13.2.0",
-    "eslint-plugin-import": "2.17.3",
-    "eslint-config-prettier": "5.1.0",
-    "eslint-plugin-prettier": "3.1.1"
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-prettier": "^3.1.1"
   },
   "devDependencies": {
-    "eslint": ">=5.12.0",
-    "prettier": "^1.15.3",
+    "eslint": "^6.7.1",
+    "prettier": "^1.19.1",
     "snazzy": "^8.0.0",
-    "standard": "^13.0.1"
+    "standard": "^14.3.1"
   }
 }
